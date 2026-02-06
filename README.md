@@ -1,2 +1,2 @@
 # ResQron
-ResQron a drone rescue system....
+ResQron – Autonomous Disaster Detection & Response System
